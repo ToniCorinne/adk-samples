@@ -14,8 +14,8 @@ This repo contains ADK sample agents for **Python**, **Go** and **Java.** Naviga
 
 To learn more, check out the [ADK Documentation](https://google.github.io/adk-docs/), and the GitHub repositories for each language:
 - [ADK Python](https://github.com/google/adk-python)
-- [ADK Go](https://github.com/google/adk-go).
-- [ADK Java](https://github.com/google/adk-java).
+- [ADK Go](https://github.com/google/adk-go)
+- [ADK Java](https://github.com/google/adk-java)
 
 ## 🌳 Repository Structure
 ```bash
