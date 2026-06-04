@@ -202,3 +202,9 @@ my_env.tfvars
 
 # A2A Inspector
 tools/a2a-inspector/
+
+# Local deployment metadata
+deployment_metadata.json
+
+# Ruff cache
+.ruff_cache/
